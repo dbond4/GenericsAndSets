@@ -31,11 +31,5 @@ public class Startup {
 //        } else {
 //            System.out.println("The addresses are NOT equal");
 //        }
-        
-        //creating a list of emoployees
-        List employeeList = new ArrayList();
-        employeeList.add(new Employee("Bond", "David", "123456789"));
-        employeeList.add(new Employee("Maddux", "Kiara", "987654321"));
-        employeeList.add(new Employee("Hancock", "Nick", "555555555"));
     }
 }
